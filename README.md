@@ -48,12 +48,12 @@ To identify patterns and bottlenecks affecting Uber availability and provide ins
 
 ## 💡 Business Recommendations
 
-##🚕 Airport Waiting Incentives
+🚕 Airport Waiting Incentives
 
 Encourage drivers to wait at airport zones by offering bonuses for idle time.
 This helps ensure supply is readily available for incoming demand.
 
-##⏳ Shift Premiums
+⏳ Shift Premiums
 
 Provide additional earnings or incentives to drivers who:
 
@@ -62,12 +62,12 @@ Stay active during high-demand airport hours
 
 This improves driver participation during critical time windows.
 
-##📍 Pre-positioning Fleet
+📍 Pre-positioning Fleet
 
 Strategically position drivers in high-demand areas before peak hours.
 Using demand forecasting, this reduces wait time and increases booking success rates.
 
-##🔍 Wider Airport Search Radius
+🔍 Wider Airport Search Radius
 
 Expand the driver search radius for airport pickups.
 This ensures:
@@ -75,11 +75,14 @@ This ensures:
 Riders have higher chances of finding a cab
 Drivers get more ride opportunities
 
-##🎯 Key Impact
+🎯 Key Impact
 
 These strategies aim to:
 
-Balance supply-demand gaps
-Reduce ride cancellations
-Improve customer experience
-Increase driver earnings
+- Balance supply-demand gaps
+
+- Reduce ride cancellations
+
+- Improve customer experience
+
+- Increase driver earnings
